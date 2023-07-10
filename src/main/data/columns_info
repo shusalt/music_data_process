@@ -1,0 +1,8 @@
+1) album_title：音乐专辑名称
+2) genre：专辑类型
+3) year_of_pub： 专辑发行年份
+4) num_of_tracks： 每张专辑中单曲数量
+5) num_of_sales：专辑销量
+6) rolling_stone_critic：滚石网站的评分
+7) mtv_critic：全球最大音乐电视网MTV的评分
+8) music_maniac_critic：音乐达人的评分
